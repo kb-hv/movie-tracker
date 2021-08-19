@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "831341170745",
+    "project_id": "movie-tracker-c62c3",
+    "storage_bucket": "movie-tracker-c62c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831341170745:android:fcacd7e9cc08041d2cbde8",
+        "android_client_info": {
+          "package_name": "com.hemavarshini.movie_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831341170745-gviumvvn603u9ommsegi41kjgr8qmf55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hemavarshini.movie_tracker",
+            "certificate_hash": "eab7d50b3bf588ed4ba7d0ca9a168bbf26497229"
+          }
+        },
+        {
+          "client_id": "831341170745-g1m09cf8sbq5jrq0md6a3qkkt9u11sj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdSZAFPcHwP-3nAHg6CiMig1J-VsSmcZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831341170745-g1m09cf8sbq5jrq0md6a3qkkt9u11sj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
