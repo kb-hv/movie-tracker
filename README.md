@@ -7,7 +7,7 @@ Authentication - Firebase
 
 ### Features
 1. Firebase auth has been integrated into the app so that users can <b>sign in</b> and use the application
-2. Users can <b>add</b> movies with the title of the movie, director name and also add a poster of the movie 
+2. Users can <b>add</b> movies with the title, director name and a poster 
 3. Users can <b>edit</b> movie details
 4. A <b>search feature</b> is enabled with which user can search for a movie by its title or by its director 
 
