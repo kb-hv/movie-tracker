@@ -1,6 +1,6 @@
 # movie_tracker
 
-<i>A Flutter app to add/edit/delete/list/search movies that a user has watched </i> 
+<i>A Flutter app to track movies that a user has watched </i> 
 
 Database - Sqlite (<a href="https://pub.dev/packages/sqflite">sqflite</a>) <br>
 Authentication - Firebase
